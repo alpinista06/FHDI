@@ -1,0 +1,33 @@
+!SESSION 2019-04-18 07:34:27.767 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.net 1 0 2019-04-18 07:36:50.327
+!MESSAGE System property http.proxyHost is not set but should be appgw.gnb.st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2019-04-18 07:36:50.346
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2019-04-18 07:36:50.420
+!MESSAGE System property http.proxyHost is not set but should be appgw.gnb.st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2019-04-18 07:36:50.420
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY fr.ac6.mcu.ide 1 1 2019-04-18 07:36:55.444
+!MESSAGE Started RMI Server, listening on port 21112
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-04-18 08:14:32.713
+!MESSAGE Indexed 'Exercicio02' (17 sources, 98 headers) in 12,2 sec: 7.891 declarations; 17.924 references; 0 unresolved inclusions; 90 syntax errors; 54 unresolved names (0,21%)
+
+!ENTRY org.eclipse.help.base 4 4 2019-04-18 08:21:33.612
+!MESSAGE Help documentation could not be indexed completely.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2019-04-18 08:21:33.612
+!MESSAGE Help document /org.eclipse.remote.doc.isv/html/reference/api/index.html cannot be opened.
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-04-18 08:49:00.704
+!MESSAGE Indexed 'Exercicio01' (17 sources, 98 headers) in 3,87 sec: 7.891 declarations; 17.924 references; 0 unresolved inclusions; 90 syntax errors; 54 unresolved names (0,21%)
